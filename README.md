@@ -210,3 +210,9 @@ This repository is published under the [MIT](LICENSE) license.
 ---
 
 Want to learn more about how we built this template  (the first version) and how you can build yours? Then you should read [this article](https://commercelayer.io/blog/how-to-build-an-international-ecommerce-website-with-sanity-and-commerce-layer) on our blog.
+
+
+Ti3H_xGtZ2pZlcDA8VKawxxAT7HfR2z0n2SneP-O6bM
+
+cl applications:login -o metal-chronometrie-sa -i XBGx0H1YJEqPububZU9h5UvK1j15QOtnN2iQ4-T85MA -s 3vy9PH76OOqq-9pFTU6Ct2KCpPNr5jzLV14Do22mwhM -a admin
+cl applications:login -o metal-ch -i lsR7FPs5JMl09eBsI754piOTtiPRXAEzpj92A3Gg_Fg -s ZcK_YjgCc2nxpQTP-rQUjJU3nr4MlIfnlTbWgHHiawI -a admin

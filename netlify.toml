@@ -1,6 +1,6 @@
 [template.environment]
-  CL_CLIENT_ID="FUu0NX2nYVBKM9i7ZNwSO0gjp8_9Jc6rQqq93erpc3Q"
-  CL_ENDPOINT="https://metal-chronometrie-sa.commercelayer.io"
+  CL_CLIENT_ID="lsR7FPs5JMl09eBsI754piOTtiPRXAEzpj92A3Gg_Fg"
+  CL_ENDPOINT="https://metal-ch.commercelayer.io"
 
   NEXT_PUBLIC_SANITY_PROJECT_ID="h96zatry"
   NEXT_PUBLIC_SANITY_DATASET="production"
